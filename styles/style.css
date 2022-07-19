@@ -1,0 +1,60 @@
+/* fonts */
+
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,500;1,400&display=swap');
+
+body {
+
+    font-family: 'Poppins', sans-serif;
+    background-color: white;
+    border: 100%;
+}
+
+.background {
+
+    display: flex;
+    background-color: black;
+    width: 1400px;
+    height: 646px;
+    justify-content: center;
+    border: 1px solid black;
+    padding: 50px 50px 50px 115px;
+    border-radius: 30px;
+}
+
+.world-cup {
+
+    font-size: 60px;
+    font-weight: 700;
+    font-style: normal;
+    color: white;
+
+}
+
+.short-description {
+
+    font-size: 20px;
+    font-weight: 50;
+    color: white;
+    text-align: justify;
+
+
+}
+
+.alignment-of-text-and-image {
+
+    text-decoration: none;
+    background-image: linear-gradient(green, green);
+    padding: 10px 40px;
+    color: white;
+    font-weight: 700;
+    border-radius: 5px;
+
+}
+
+.half-width img {
+
+    width: 662px;
+    padding-left: 60px;
+
+
+}
